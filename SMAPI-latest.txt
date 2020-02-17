@@ -1,0 +1,174 @@
+[20:35:00 INFO  SMAPI] SMAPI 3.2.0 with Stardew Valley 1.4.5 on Microsoft Windows 10 专业版
+[20:35:00 INFO  SMAPI] Mods go here: D:\game\platform\steam\steamapps\common\Stardew Valley\Mods
+[20:35:00 TRACE SMAPI] Log started at 2020-02-17T12:35:00 UTC
+[20:35:01 DEBUG SMAPI] Starting game...
+[20:35:04 TRACE SMAPI] Loading mod metadata...
+[20:35:04 TRACE SMAPI]   Ignored loose files: discribition.txt
+[20:35:05 TRACE SMAPI] Loading mods...
+[20:35:05 TRACE SMAPI]    Automate (from Mods\Automate\Automate.dll)...
+[20:35:05 TRACE SMAPI]    Chests Anywhere (from Mods\ChestsAnywhere\ChestsAnywhere.dll)...
+[20:35:05 TRACE SMAPI]    CJB Item Spawner (from Mods\CJBItemSpawner\CJBItemSpawner.dll)...
+[20:35:05 TRACE SMAPI]    Console Commands (from Mods\ConsoleCommands\ConsoleCommands.dll)...
+[20:35:05 TRACE SMAPI]    StardewHack (from Mods\StardewHack\StardewHack.dll)...
+[20:35:05 TRACE SMAPI]       Rewriting StardewHack.dll for OS...
+[20:35:05 TRACE SMAPI]       Detected game patcher (Harmony.HarmonyInstance type) in assembly StardewHack.dll.
+[20:35:05 TRACE SMAPI]    Harvest With Scythe (from Mods\HarvestWithScythe\HarvestWithScythe.dll)...
+[20:35:05 TRACE SMAPI]       Rewriting HarvestWithScythe.dll for OS...
+[20:35:05 TRACE SMAPI]    Lookup Anything (from Mods\LookupAnything\LookupAnything.dll)...
+[20:35:05 TRACE SMAPI]    NPC Map Locations (from Mods\NPCMapLocations\NPCMapLocations.dll)...
+[20:35:05 TRACE SMAPI]    Range Display (from Mods\RangeDisplay\RangeDisplay.dll)...
+[20:35:05 TRACE SMAPI]    Save Backup (from Mods\SaveBackup\SaveBackup.dll)...
+[20:35:05 TRACE SMAPI]    ShopAnywhere (from Mods\ShopAnywhere\ShopAnywhere.dll)...
+[20:35:05 TRACE SMAPI]    SkullCavernElevator (from Mods\SkullCavernElevator\SkullCavernElevator.dll)...
+[20:35:05 TRACE SMAPI]    Better Sprinklers (from Mods\SMAPISprinklerMod\SMAPISprinklerMod.dll)...
+[20:35:05 TRACE SMAPI]    TimeSpeed (from Mods\TimeSpeed\TimeSpeed.dll)...
+[20:35:05 TRACE SMAPI]    UI Info Suite (from Mods\UI Info Suite\UIInfoSuite.dll)...
+[20:35:05 TRACE SMAPI]    Wear More Rings (from Mods\WearMoreRings\WearMoreRings.dll)...
+[20:35:05 TRACE SMAPI]       Rewriting WearMoreRings.dll for OS...
+[20:35:05 INFO  SMAPI] Loaded 16 mods:
+[20:35:05 INFO  SMAPI]    Automate 1.15.1 by Pathoschild | Lets you automate crafting machines, fruit trees, and more by connecting them to chests.
+[20:35:05 INFO  SMAPI]    Better Sprinklers 2.5.0 by Maurício Gomes (Speeder) | Lets you customise the sprinkler coverage.
+[20:35:05 INFO  SMAPI]    Chests Anywhere 1.17.4 by Pathoschild | Access your chests from anywhere and organize them your way.
+[20:35:05 INFO  SMAPI]    CJB Item Spawner 1.12.0 by CJBok and Pathoschild | Simple in-game item spawner!
+[20:35:05 INFO  SMAPI]    Console Commands 3.2.0 by SMAPI | Adds SMAPI console commands that let you manipulate the game.
+[20:35:05 INFO  SMAPI]    Harvest With Scythe 3.0.0 by bcmpinc | Allows you to harvest all crops and forage using the scythe. They can also still be plucked.
+[20:35:05 INFO  SMAPI]    Lookup Anything 1.25.2 by Pathoschild | View metadata about anything by pressing a button.
+[20:35:05 INFO  SMAPI]    NPC Map Locations 2.5.2 by Bouhm | Shows NPCs and farmers on a modified map page for accurate tracking.
+[20:35:05 INFO  SMAPI]    Range Display 3.0.0 by Cat | Press a key to view the range of sprinklers, scarecrows, bee houses, and junimo huts.
+[20:35:05 INFO  SMAPI]    Save Backup 3.2.0 by SMAPI | Automatically backs up all your saves once per day into its folder.
+[20:35:05 INFO  SMAPI]    ShopAnywhere 2.4.0 by SorryLate | Access shop anywhere and anytime
+[20:35:05 INFO  SMAPI]    SkullCavernElevator 1.2.7 by lestoph | Elevator for the Skull Cavern
+[20:35:05 INFO  SMAPI]    StardewHack 3.0.0 by bcmpinc | Transpilation library used by my other mods. Doesn't do much on its own.
+[20:35:05 INFO  SMAPI]    TimeSpeed 2.4.3 by cantorsdust | Lets you control the flow of time in the game: speed it up, slow it down, or freeze it altogether.
+[20:35:05 INFO  SMAPI]    UI Info Suite 1.8.4 by Cdaragorn | Adds a lot of useful information to the user interface. This is based on Demiacle's excellent UIModSuite.
+[20:35:05 INFO  SMAPI]    Wear More Rings 3.0.0 by bcmpinc | Adds 4 additional ring slots to your inventory.
+
+[20:35:05 INFO  SMAPI] Found 1 mod with warnings:
+[20:35:05 INFO  SMAPI]    Patched game code
+[20:35:05 INFO  SMAPI]    --------------------------------------------------
+[20:35:05 INFO  SMAPI]       These mods directly change the game code. They're more likely to cause errors or bugs in-game; if
+[20:35:05 INFO  SMAPI]       your game has issues, try removing these first. Otherwise you can ignore this warning.
+
+[20:35:05 INFO  SMAPI]       - StardewHack
+
+[20:35:05 TRACE SMAPI]    Found mod-provided API (Pathoschild.Stardew.Automate.Framework.AutomateAPI).
+[20:35:05 TRACE CJB Item Spawner] Started with menu key I.
+[20:35:05 INFO  StardewHack] Loaded StardewHack library v3.0.0 using Harmony v1.2.0.1.
+[20:35:05 DEBUG Harvest With Scythe] Applying bytecode patches for bcmpinc.HarvestWithScythe.
+[20:35:05 TRACE Harvest With Scythe] Applying patch GameLocation_checkAction to Boolean checkAction(xTile.Dimensions.Location, xTile.Dimensions.Rectangle, StardewValley.Farmer) in StardewValley.GameLocation.
+[20:35:05 TRACE Harvest With Scythe] Applying patch GameLocation_checkAction_Chain to Boolean <checkAction>b__0() in StardewValley.GameLocation+<>c__DisplayClass234_0.
+[20:35:06 TRACE Harvest With Scythe] Applying patch Object_performToolAction to Boolean performToolAction(StardewValley.Tool, StardewValley.GameLocation) in StardewValley.Object.
+[20:35:06 TRACE Harvest With Scythe] Applying patch HoeDirt_performUseAction to Boolean performUseAction(Microsoft.Xna.Framework.Vector2, StardewValley.GameLocation) in StardewValley.TerrainFeatures.HoeDirt.
+[20:35:06 TRACE Harvest With Scythe] Applying patch HoeDirt_performToolAction to Boolean performToolAction(StardewValley.Tool, Int32, Microsoft.Xna.Framework.Vector2, StardewValley.GameLocation) in StardewValley.TerrainFeatures.HoeDirt.
+[20:35:06 TRACE Harvest With Scythe] Applying patch Crop_harvest to Boolean harvest(Int32, Int32, StardewValley.TerrainFeatures.HoeDirt, StardewValley.Characters.JunimoHarvester) in StardewValley.Crop.
+[20:35:06 TRACE SMAPI]    Found mod-provided API (BetterSprinklers.Framework.BetterSprinklersApi).
+[20:35:06 DEBUG UI Info Suite] starting.
+[20:35:06 DEBUG Wear More Rings] Applying bytecode patches for bcmpinc.WearMoreRings.
+[20:35:06 TRACE Wear More Rings] Applying patch Ring_ctor to Void .ctor(Int32) in StardewValley.Objects.Ring.
+[20:35:06 TRACE Wear More Rings] Applying patch InventoryPage_receiveLeftClick to Void receiveLeftClick(Int32, Int32, Boolean) in StardewValley.Menus.InventoryPage.
+[20:35:06 TRACE Wear More Rings] Could not find instruction sequence (failed to match line 4: "ldstr "Hat""):
+  ldloc.1
+  ldfld System.String name
+  stloc.3
+  ldloc.3
+  brfalse
+  ldloc.3
+  ldstr "Hat"
+   在 StardewHack.InstructionRange..ctor(List`1 insts, InstructionMatcher[] contains, Int32 start, Int32 step)
+   在 StardewHack.WearMoreRings.ModEntry.InventoryPage_receiveLeftClick()
+[20:35:06 TRACE Wear More Rings] Applying patch InventoryPage_performHoverAction to Void performHoverAction(Int32, Int32) in StardewValley.Menus.InventoryPage.
+[20:35:06 TRACE Wear More Rings] Could not find instruction sequence (failed to match line 4: "ldstr "Hat""):
+  ldloc.1
+  ldfld System.String name
+  stloc.2
+  ldloc.2
+  brfalse
+  ldloc.2
+  ldstr "Hat"
+   在 StardewHack.InstructionRange..ctor(List`1 insts, InstructionMatcher[] contains, Int32 start, Int32 step)
+   在 StardewHack.WearMoreRings.ModEntry.InventoryPage_performHoverAction()
+[20:35:07 TRACE Wear More Rings] Applying patch InventoryPage_draw to Void draw(Microsoft.Xna.Framework.Graphics.SpriteBatch) in StardewValley.Menus.InventoryPage.
+[20:35:07 TRACE Wear More Rings] Could not find instruction sequence (failed to match line 7: "ldstr "Hat""):
+  ldloca.s
+  call
+  stloc.s
+  ldloc.s
+  ldfld System.String name
+  stloc.s
+  ldloc.s
+  brfalse
+  ldloc.s
+  ldstr "Hat"
+   在 StardewHack.InstructionRange..ctor(List`1 insts, InstructionMatcher[] contains, Int32 start, Int32 step)
+   在 StardewHack.WearMoreRings.ModEntry.InventoryPage_draw()
+[20:35:07 TRACE Wear More Rings] Applying patch InventoryPage_ctor to Void .ctor(Int32, Int32, Int32, Int32) in StardewValley.Menus.InventoryPage.
+[20:35:07 TRACE Wear More Rings] Applying patch GameLocation_damageMonster to Boolean damageMonster(Microsoft.Xna.Framework.Rectangle, Int32, Int32, Boolean, Single, Int32, Single, Single, Boolean, StardewValley.Farmer) in StardewValley.GameLocation.
+[20:35:07 TRACE Wear More Rings] Applying patch GameLocation_resetLocalState to Void resetLocalState() in StardewValley.GameLocation.
+[20:35:07 TRACE Wear More Rings] Applying patch GameLocation_cleanupBeforePlayerExit to Void cleanupBeforePlayerExit() in StardewValley.GameLocation.
+[20:35:07 TRACE Wear More Rings] Applying patch Farmer_updateCommon to Void updateCommon(Microsoft.Xna.Framework.GameTime, StardewValley.GameLocation) in StardewValley.Farmer.
+[20:35:07 TRACE Wear More Rings] Applying patch Farmer_isWearingRing to Boolean isWearingRing(Int32) in StardewValley.Farmer.
+[20:35:07 TRACE Wear More Rings] Applying patch Farmer_farmerInit to Void farmerInit() in StardewValley.Farmer.
+[20:35:07 TRACE SMAPI]    Found mod-provided API (StardewHack.WearMoreRings.RingsImplementation).
+[20:35:07 TRACE SMAPI] Checking for updates...
+[20:35:07 TRACE SMAPI] Better Sprinklers edited Data\CraftingRecipes.
+[20:35:07 TRACE SMAPI] Better Sprinklers edited Data\ObjectInformation.
+[20:35:08 TRACE game] setGameMode( 'titleScreenGameMode (0)' )
+[20:35:08 TRACE game] LocalizedContentManager.CurrentLanguageCode CHANGING from 'en' to 'zh'
+[20:35:08 TRACE SMAPI] Better Sprinklers edited Data\ObjectInformation.
+[20:35:08 TRACE SMAPI] Better Sprinklers edited Data\CraftingRecipes.
+[20:35:08 TRACE game] LocalizedContentManager.CurrentLanguageCode CHANGED from 'en' to 'zh'
+[20:35:08 TRACE game] Steam logged on: True
+[20:35:08 TRACE game] Initializing GalaxySDK
+[20:35:08 TRACE game] Requesting Steam app ticket
+[20:35:08 TRACE SMAPI] Detecting common issues...
+[20:35:08 INFO  SMAPI] Type 'help' for help, or 'help <cmd>' for a command's usage
+[20:35:09 TRACE Range Display] Accessed mod-provided API for Better Sprinklers.
+[20:35:09 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:640 Y:372 Width:1280 Height:720}
+[20:35:09 TRACE game] Signing into GalaxySDK
+[20:35:09 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:2560 Height:1440}
+[20:35:09 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:2560 Height:1440}
+[20:35:17 TRACE SMAPI]    SMAPI okay.
+[20:35:17 TRACE SMAPI]    Checking for updates to 14 mods...
+[20:35:19 TRACE SMAPI] Got update-check errors for some mods:
+   Better Sprinklers: The update key 'Chucklefish:3551' matches a mod with no version number.
+[20:35:19 TRACE SMAPI]    All mods up to date.
+[20:35:25 TRACE game] Galaxy auth success
+[20:35:25 TRACE game] Galaxy signed in
+[20:35:25 TRACE game] Galaxy logged on
+[20:36:01 TRACE game] gameMode was 'titleScreenGameMode (0)', set to 'loadingMode (6)'.
+[20:36:01 TRACE SMAPI] Game loader synchronizing...
+[20:36:01 TRACE game] getLoadEnumerator('祥祥_236590253')
+[20:36:04 TRACE game] gameMode was 'loadingMode (6)', set to 'playingGameMode (3)'.
+[20:36:04 TRACE game] getLoadEnumerator() exited, elapsed = '00:00:03.1855779'
+[20:36:04 TRACE SMAPI] Game loader done.
+[20:36:04 TRACE game] Window_ClientSizeChanged(); Window.ClientBounds={X:0 Y:0 Width:2560 Height:1440}
+[20:36:04 TRACE SMAPI] Context: loaded save '祥祥_236590253', starting spring 11 Y2, locale set to zh. Single-player.
+[20:36:04 DEBUG NPC Map Locations] Adjusted markers for Robin, George, Evelyn, Alex, Haley, Emily, Sam, Vincent, Jodi, Kent, Clint, Lewis, Pierre, Caroline, Abigail, Gus, Penny, Pam, Harvey, Elliott, Maru, Demetrius, Sebastian, Linus, Wizard, Jas, Shane, Marnie, Leah, Sandy, Marlon, Willy
+[20:36:04 TRACE NPC Map Locations] Requested cache invalidation for 'LooseSprites\Map'.
+[20:36:04 TRACE SMAPI] Invalidated 0 cache entries.
+[20:36:04 DEBUG NPC Map Locations] Using recolored map maps\_default\spring_map.png.
+[20:36:04 TRACE SMAPI] NPC Map Locations loaded asset 'LooseSprites\map'.
+[20:36:04 TRACE Wear More Rings] Loaded extra rings save data.
+[20:36:12 TRACE game] Warping to Farm
+[20:36:35 TRACE game] Warping to Forest
+[20:37:18 TRACE Lookup Anything] Received a lookup request... searching the world... no target found.
+[20:37:19 TRACE Lookup Anything] Received a lookup request... searching the world...
+[20:37:19 TRACE Lookup Anything] Showing CharacterSubject::村民::谢恩.
+[20:38:30 TRACE game] Warping to AnimalShop
+[20:38:33 TRACE game] Warping to AnimalShop
+[20:38:34 TRACE game] Warping to Forest
+[20:38:41 TRACE game] Warping to AnimalShop
+[20:38:42 TRACE game] Warping to Forest
+[20:38:46 TRACE game] Warping to AnimalShop
+[20:39:36 TRACE game] Warping to AnimalShop
+[20:39:38 TRACE game] Warping to Forest
+[20:39:43 TRACE game] Warping to AnimalShop
+[20:39:44 TRACE game] Warping to Forest
+[20:39:48 TRACE game] Warping to AnimalShop
+[20:39:50 TRACE game] Warping to Forest
+[20:39:55 TRACE game] Warping to AnimalShop
+[20:41:05 TRACE game] Warping to AnimalShop
+[20:41:07 TRACE game] Warping to Forest
+[20:41:14 TRACE game] Warping to AnimalShop
+[20:41:16 TRACE game] Warping to Forest
+[20:41:20 TRACE game] Warping to AnimalShop
